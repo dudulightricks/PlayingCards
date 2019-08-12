@@ -1,15 +1,15 @@
 //
 //  ViewController.h
-//  PlayingCards
+//  SuperCard
 //
-//  Created by Dudo Moshe on 30/07/2019.
-//  Copyright © 2019 Dudo Moshe. All rights reserved.
+//  Created by CS193p Instructor.
+//  Copyright (c) 2013 Stanford University. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+#import "MainViewController.h"
 
+@interface ViewController : MainViewController
 
 @end
-
